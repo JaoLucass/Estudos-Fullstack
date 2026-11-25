@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+bin/
+obj/
+node_modules/
+dist/
+target/
+.idea/
+.vs/
+.env
+*.pdf
